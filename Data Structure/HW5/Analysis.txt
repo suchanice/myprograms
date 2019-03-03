@@ -1,0 +1,38 @@
+//Sucharita Das
+
+//StudentId : 109103020
+
+//CSCI: Data Structure
+/
+/HW4
+
+1. insertAtFront()
+Insert the first element in the link list.
+else it returns false.
+Hence, Time Complexity = O(1)
+
+2. insertBeforePosition()
+A simple function insert before position
+This operation takes constant time.
+Hence, Time Complexity = O(1)
+
+3.insertAtBack()
+This function insert new node on the back of linked list
+boolean function to check whether  returns True, else it returns false.
+Hence, Time Complexity = O(1)
+
+4. deleteAtFront()
+Delete node in the front.
+boolean function to check whether  returns True, else it returns false.
+Hence, Time Complexity = O(n)
+
+5.  deletePosition()
+This function delete the position.
+boolean function to check whether  returns True, else it returns false.
+Hence, Time Complexity = O(n)
+
+6. deleteAtBack()
+This function is to delete a node on the back of linked list
+boolean function to check whether  returns True, else it returns false.
+7.clear()
+Clear function to make it clear
